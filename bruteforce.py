@@ -25,7 +25,6 @@ import requests
 import time
 import sys
 import re
-from bs4 import BeautifulSoup
 
 class BruteForceCracker:
     def __init__(self, url, username, error_message):
